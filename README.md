@@ -1,14 +1,6 @@
-# QBO Cash Flow Tools
+# Atkins CPA Internal
 
-Automated cash flow forecasting and financial analysis powered by QuickBooks Online.
-
-Built by [Atkins CPA LLC](https://atkinscpallc.com).
-
-## What This Does
-
-- Connects to your QuickBooks Online account
-- Generates automated cash flow forecasts in Excel
-- Delivers monthly AI-powered financial analysis to your inbox
+Internal tools and integrations for Atkins CPA LLC.
 
 ## Legal
 
@@ -19,3 +11,4 @@ Built by [Atkins CPA LLC](https://atkinscpallc.com).
 
 Hunter Atkins, CPA
 hunter@atkinscpallc.com
+https://atkinscpallc.com
